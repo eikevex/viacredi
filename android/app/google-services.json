@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522473045547",
+    "project_id": "viacredi-fb02d",
+    "storage_bucket": "viacredi-fb02d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522473045547:android:a661f7302e7f73098b346e",
+        "android_client_info": {
+          "package_name": "com.example.viacredi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKuG-4KzQuBDUgqUYRqvO0iSrCsxJnBbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
